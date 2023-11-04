@@ -128,10 +128,10 @@
     "pet": "Parrot",
     "modules": [
       {
-        "title": "Week 1 - Introduction to cat anatomy",
+        "title": "Week 1 - Introduction to parrot anatomy",
         "items": [
           {
-            "title": "Cat arm",
+            "title": "Parrot arm",
             "slug": "cat-arm"
           },
           {
@@ -190,10 +190,10 @@
     "pet": "Duck",
     "modules": [
       {
-        "title": "Week 1 - Introduction to cat anatomy",
+        "title": "Week 1 - Introduction to duck anatomy",
         "items": [
           {
-            "title": "Cat arm",
+            "title": "Duck arm",
             "slug": "cat-arm"
           },
           {
@@ -252,10 +252,10 @@
     "pet": "Hippo",
     "modules": [
       {
-        "title": "Week 1 - Introduction to cat anatomy",
+        "title": "Week 1 - Introduction to hippo anatomy",
         "items": [
           {
-            "title": "Cat arm",
+            "title": "Hippo arm",
             "slug": "cat-arm"
           },
           {
